@@ -1,2 +1,2 @@
-# cafeteira_autom-tica
-Cafeteira ativada pelo bluetooth do celular. 
+# cafeteira_automatica
+Cafeteira ativada pelo bluetooth do celular usando arduino
